@@ -1,0 +1,58 @@
+html {
+  background-color: black;
+  font-size: 18px;
+}
+
+p {
+  color:white;
+  text-align:left;
+}
+
+h1 {
+  color:white
+}
+
+h2 {
+  color:white
+}
+
+ul {
+  background: white;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+dl {
+  background: white;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+ol {
+  background: white;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+
+li {
+  margin-left: 20px;
+  color:black;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
