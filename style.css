@@ -1,3 +1,5 @@
+/*
+
 html {
   background-color: black;
   font-size: 18px;
@@ -52,7 +54,10 @@ img {
 }
 
 /* resize images */
+/*
 .container img {
     width: 100%;
     height: auto;
 }
+
+*/
